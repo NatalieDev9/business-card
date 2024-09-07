@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+}
+
+.avatar {
+    width: 200;
+}
+
+.card {
+    width: 400;
+    border-radius: 10px;
+    background-image: linear-gradient(white,#ff0852);
+    color: #2b2839;
+    border: 10px solid #ff0852;
+    margin: 0 auto;
+    padding:20px;
+    display: flex;
+    justify-content: space-around; 
+    text-align: center;
+    
+    
+}
+
+
+
+
